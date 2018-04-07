@@ -1,0 +1,8 @@
+jumlah_kehadiran = 140
+materi = 'remote work python'
+print ('hello world')
+print ('=' = 140)
+print ('Jumlah kehadiran = () dan judul =()'.format (jumlah_kehadiran))
+print ('Jumlah kehadiran = %d dan judul =%d'% (jumlah_kehadiran))
+
+print ('ingin mencri kata  ... .. ......')
